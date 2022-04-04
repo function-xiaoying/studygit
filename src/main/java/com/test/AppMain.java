@@ -8,6 +8,7 @@ public class AppMain {
         System.out.println("hot-fix 第一次提交代码");
         System.out.println("master tst");
         System.out.println("hot-fix test");
+        System.out.println("add");
     }
 
 }
