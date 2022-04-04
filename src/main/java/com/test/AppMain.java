@@ -9,6 +9,7 @@ public class AppMain {
         System.out.println("master tst");
         System.out.println("hot-fix test");
         System.out.println("add");
+        System.out.println("手动修改");
     }
 
 }
