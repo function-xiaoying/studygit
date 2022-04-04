@@ -6,6 +6,7 @@ public class AppMain {
         System.out.println("第二次修改");
         System.out.println("第三次修改");
         System.out.println("hot-fix 第一次提交代码");
+        System.out.println("hot-fix test");
     }
 
 }
